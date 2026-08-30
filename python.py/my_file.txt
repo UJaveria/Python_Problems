@@ -1,0 +1,9 @@
+Ali is learning Python
+
+Ahmed is learning C++
+
+Sara is learning Python and Machine Learning
+
+Hassan likes Java
+
+Ayesha is learning Artificial Intelligence

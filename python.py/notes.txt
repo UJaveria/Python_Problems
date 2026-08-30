@@ -1,0 +1,4 @@
+Python is heigher level language.
+It is easy to learn.
+Its commonly used in Artifical Intelligence.
+Programming is a skill.

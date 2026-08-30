@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Hamza",
+        "roll_no": 201,
+        "department": "CS",
+        "semester": 4,
+        "gpa": 3.45
+    },
+    {
+        "name": "Maham",
+        "roll_no": 202,
+        "department": "SE",
+        "semester": 3,
+        "gpa": 3.78
+    },
+    {
+        "name": "Usman",
+        "roll_no": 203,
+        "department": "IT",
+        "semester": 5,
+        "gpa": 3.12
+    },
+    {
+        "name": "Hira",
+        "roll_no": 204,
+        "department": "CS",
+        "semester": 2,
+        "gpa": 3.91
+    }
+]
